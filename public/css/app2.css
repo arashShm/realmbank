@@ -1,0 +1,27 @@
+.btn {
+    height: 40px !important;
+    align-items: center;
+}
+
+
+.image {
+    width: 100% !important;
+    height: 200px;
+    margin: auto;
+}
+
+.cards{
+    width: 25% !important;
+}
+
+.showCard {
+    display: flex !important;
+    justify-content: center !important;
+    width: 600px;
+}
+
+.showImage {
+    width: 100% !important;
+    height: 400px;
+    margin: auto;
+}
